@@ -16,4 +16,5 @@ Bu bot, **Discord.js v14** kullanarak geliştirilmiş bir **Ticket (Destek Taleb
 ### 1️⃣ Gerekli Modülleri Kur  
 Öncelikle botun çalışması için gerekli paketleri yükleyin:  
 ```sh
-npm install discord.js dotenv fs
+npm install discord.js
+node .
